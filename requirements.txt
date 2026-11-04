@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+jupyterlab
+torch
+torchvision
+medmnist==3.0.2
