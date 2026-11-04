@@ -1,7 +1,7 @@
 # Göğüs Röntgeninden Pnömoni Tahmini: ChestMNIST Üzerinde Derin Öğrenme
 
 > SVY 5430 Biyomedikal Verilerin Analizi ve Yapay Zeka · Fırat Üniversitesi YBAE · 2026–2027 Güz
-> Proje kodu: **BVYZ-05** · Öğrenci: <Emirhan GÖKTEPE>
+> Proje kodu: **BVYZ-05** · Öğrenci: Emirhan GÖKTEPE
 
 Bu depo, dönem projesinin tüm kodunu, çalıştırılabilir defterlerini ve LaTeX raporunu içerir.
 **Veri dosyaları depoya konmaz**; [`data/README.md`](data/README.md) verinin nereden ve nasıl indirileceğini anlatır.
